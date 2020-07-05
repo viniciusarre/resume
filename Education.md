@@ -1,6 +1,6 @@
 # Education
 
-1. Bachelor of Technology (B-Tech) degree; 2016-2019; (GPA: 9/10)
+Bachelor of Technology (B-Tech) degree; 2016-2019; (GPA: 9/10)
 
 * I have studied in a Brazilian university called [Fatec](http://www.fatecsp.br/), more precisely in the [Jales](http://www.fatecjales.edu.br/) area. The degree was called Systems for the Internet and it consisted of exploring the World Wide Web from the perspective of designing web systems (both on Front-end and Back-end). 
   It gave me some insights into the newly-explored area, below are some of the highlights of the course:
@@ -14,7 +14,7 @@
 * For more information on the course, you can access the course syllabus by clicking [here](http://www.fatecjales.edu.br/graduacao/sistemas-para-internet#informacoes-curso).
 
 
-1. Exchange program in In DUOC, Chile; 2018; (GPA: 6.32 / 7)
+ Exchange program in In DUOC, Chile; 2018; (GPA: 6.32 / 7)
 
 * During my B-Tech program, I was selected for an exchange program in Santiago, Chile. The program (Informatics Engineering) was an excellent opportunity for me to learn more deeply about some of the concepts I have studied in the other program. I have selected the following to study during the semester:
 
