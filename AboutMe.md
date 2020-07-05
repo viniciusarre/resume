@@ -2,14 +2,27 @@
 
 I was born in [Fernandópolis](https://en.wikipedia.org/wiki/Fernand%C3%B3polis), a small town in the countryside of the state of São Paulo, Brazil.
 
-From an early age, I have developed an interest for music, hence I grew up playing in [OSFER](http://osfer.com.br/2015/home-en). Music was a good part of my childhood and adolescence. I have played many musical instruments, including the guitar, the French Horn and the Trumpet.
+I am a full-stack web developer with an interest on writing educational and/or open-source systems. I have mostly been working with JavaScript, but I have also done some projects using Python and I have an interest in Rust.
 
-Later in my adolescence, I developed an interest in learning foreign languages and discovering other cultures. It all started by the time I was 15 years old, as I began teaching myself English.
-I have been fascinated by how the internet could easily connect me to the world and meeting new people and realities quickly became a good part of my life, as I was heading into adulthood. I have learned and can still communicate / read in the following foreign languages: English, Spanish, French and Italian.
+My main skills are:
 
-Also, during these years, I have developed an interest in writing fiction. Having had an idea for a science-fiction book (which hasn't been written yet), as well as poems, short stories (from which I have published two in anthologies in Brazil).
+**Proficient in**: HTML/ CSS, Javascript, Node.js, Express.js, React.js, Redux.js, Vue.js, GraphQL, MongoDB, Python, Unix Shell, Git, CI/CD, SQL Databases (Postgres and mySQL), . 
 
-By the time I was 19, however, I started my career in Web Development by joining a university course in a nearby city. My efforts and dedication helped me achieve an opportunity to study abroad in Chile.
-And, later on, I have been lucky enough to combine my passion of discovering the world and different cultures to work as a Web Developer by freelancing with clients from several foreign countries.
+**Familiar with**: Rust, React-Native, OOP-Programming (PHP and Java), MS-DOS.
 
-Now, besides working on personal projects and learning new technologies, I enjoy focusing on the same things I used to before: I have been playing the bass guitar, reading about Philosophy and Science in foreign languages, as well as learning some Japanese.
+**Soft-Skills**: 
+
+**Communicative about requirements and client-driven:** When working with clients from different backgrounds and countries, it is important to be mindful about communication.
+
+I always keep in mind how SCRUM clearly states the importance of 5 values to success in Team Work (Commitment; Focus; Openness; Respect and Courage)
+
+**Languages:**
+
+I am very interested in learning about new languages and cultures, which have led me to learn the following languages:
+
+* **Native language**: **Portuguese;
+* **Fluent in:** English and Spanish;
+* **Advanced-level:** French;
+* **Intermediate-level:** Italian;
+* **Currently learning:** Japanese.
+ 

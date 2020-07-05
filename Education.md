@@ -14,7 +14,7 @@ Bachelor of Technology (B-Tech) degree; 2016-2019; (GPA: 9/10)
 * For more information on the course, you can access the course syllabus by clicking [here](http://www.fatecjales.edu.br/graduacao/sistemas-para-internet#informacoes-curso).
 
 
- Exchange program in In DUOC, Chile; 2018; (GPA: 6.32 / 7)
+ Exchange program in In DUOC, Chile; 2018; (GPA: 6.32/7)
 
 * During my B-Tech program, I was selected for an exchange program in Santiago, Chile. The program (Informatics Engineering) was an excellent opportunity for me to learn more deeply about some of the concepts I have studied in the other program. I have selected the following to study during the semester:
 
