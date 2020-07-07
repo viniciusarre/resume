@@ -6,6 +6,6 @@ Hello! Thank you for your interest in my Résumé. My name is Vinícius, I'm a f
 
 [Education](https://github.com/viniciusarre/resume/blob/master/Education.md)
 
-[Projects](https://github.com/viniciusarre/resume/blob/master/AboutMe.md)
+[Experience](https://github.com/viniciusarre/resume/blob/master/Experience.md)
 
-[Open Source](https://github.com/viniciusarre/resume/blob/master/Education.md)
+[Open Source](https://github.com/viniciusarre/resume/blob/master/OpenSource.md)
