@@ -1,3 +1,5 @@
+[Back to Homepage](https://github.com/viniciusarre/resume)
+
 ## Open Source
 
 I am a big fan of contributing to Open Source projects seasonally. I have been working on my own Open Source projects. They're basically small-sized personal projects and POCs I want to get developed and out there. There's a list of these projects below:

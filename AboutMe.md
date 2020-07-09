@@ -1,3 +1,5 @@
+[Back to Homepage](https://github.com/viniciusarre/resume)
+
 # About me
 
 I was born in [Fernandópolis](https://en.wikipedia.org/wiki/Fernand%C3%B3polis), a small town in the countryside of the state of São Paulo, Brazil.
@@ -6,9 +8,9 @@ I am a full-stack web developer with an interest on writing educational and/or o
 
 My main skills are:
 
-**Proficient in**: HTML/ CSS, Javascript, Node.js, Express.js, React.js, Redux.js, Vue.js, GraphQL, MongoDB, Python, Unix Shell, Git, CI/CD, SQL Databases (Postgres and mySQL), . 
+**Proficient in**: HTML/ CSS, Javascript, Node.js, Express.js, React.js, Redux.js, Vue.js, GraphQL, MongoDB, Python, Unix Shell, Git, CI/CD, SQL Databases (Postgres and mySQL). 
 
-**Familiar with**: Rust, React-Native, OOP-Programming (PHP and Java), MS-DOS.
+**Familiar with**: Rust, React-Native and Object-Oriented Programming (PHP and Java).
 
 **Soft-Skills**: 
 
