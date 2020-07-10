@@ -8,17 +8,19 @@ I am a full-stack web developer with an interest on writing educational and/or o
 
 My main skills are:
 
+### Hard Skills:
+
 **Proficient in**: HTML/ CSS, Javascript, Node.js, Express.js, React.js, Redux.js, Vue.js, GraphQL, MongoDB, Python, Unix Shell, Git, CI/CD, SQL Databases (Postgres and mySQL). 
 
 **Familiar with**: Rust, React-Native and Object-Oriented Programming (PHP and Java).
 
-**Soft-Skills**: 
+### Soft-Skills:
 
 **Communicative about requirements and client-driven:** When working with clients from different backgrounds and countries, it is important to be mindful about communication.
 
 I always keep in mind how SCRUM clearly states the importance of 5 values to success in Team Work (Commitment; Focus; Openness; Respect and Courage)
 
-**Languages:**
+### Spoken Languages: 
 
 I am very interested in learning about new languages and cultures, which have led me to learn the following languages:
 
